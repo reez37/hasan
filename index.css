@@ -1,0 +1,887 @@
+.ny8tpfv2-5-icon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 382px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  top: 17px;
+  left: 306px;
+  width: 21.88px;
+  height: 19.14px;
+}
+.whatsapp-image-2023-05-16-at-1-icon {
+  position: absolute;
+  top: 7px;
+  left: 62px;
+  width: 82px;
+  height: 39px;
+  object-fit: cover;
+}
+.vector-parent {
+  position: absolute;
+  top: 27px;
+  left: calc(50% - 194.5px);
+  background: linear-gradient(
+    81.56deg,
+    rgba(191, 198, 214, 0.42),
+    rgba(191, 198, 214, 0.18) 41.67%,
+    rgba(191, 198, 214, 0)
+  );
+  backdrop-filter: blur(40px);
+  width: 390px;
+  height: 53px;
+  overflow: hidden;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 222px;
+  height: 58px;
+}
+.check-products {
+  position: absolute;
+  top: 21px;
+  left: calc(50% - 74px);
+  font-weight: 500;
+}
+.group-parent {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  width: 266px;
+  height: 74px;
+}
+.building-dreams-one {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 125px);
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.hasan-buildcon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 129px);
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.1em;
+  font-family: var(--font-audiowide);
+}
+.frame-parent {
+  position: absolute;
+  top: 127px;
+  left: calc(50% - 132.5px);
+  width: 266px;
+  height: 135px;
+}
+.about-us {
+  position: relative;
+  font-weight: 600;
+}
+.about-us-wrapper {
+  text-decoration: none;
+  position: absolute;
+  top: 279px;
+  left: calc(50% - 65px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue);
+  width: 129px;
+  height: 45px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+}
+.welcome-to-hasan {
+  position: absolute;
+  top: 46px;
+  left: calc(50% - 162px);
+  font-size: var(--font-size-xl);
+  text-transform: uppercase;
+  color: var(--color-midnightblue);
+}
+.we-are-thrilled {
+  position: absolute;
+  top: 106px;
+  left: calc(50% - 165px);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-dimgray);
+  text-align: center;
+  display: inline-block;
+  width: 330px;
+  height: 173px;
+}
+.frame-group {
+  position: absolute;
+  top: 350px;
+  left: calc(50% - 179.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: var(--shadow);
+  width: 360px;
+  height: 372px;
+}
+.home1 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color:#0a4175 ;
+}
+.products {
+  text-align: center;
+}
+.contact-us,
+.products {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+}
+.frame-wrapper,
+.home-parent {
+  position: absolute;
+  width: 390px;
+}
+.home-parent {
+  top: 35px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xl);
+}
+.frame-wrapper {
+  top: 80px;
+  left: calc(50% - 194.5px);
+  background: linear-gradient(
+    80.85deg,
+    rgba(191, 198, 214, 0.42),
+    rgba(191, 198, 214, 0.18) 41.67%,
+    rgba(191, 198, 214, 0)
+  );
+  backdrop-filter: blur(40px);
+  height: 297px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl);
+}
+.ny8tpfv2-5-parent {
+  align-self: stretch;
+  position: relative;
+  height: 722px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.experience-unyielding-strength {
+  position: absolute;
+  top: 366px;
+  left: calc(50% - 159px);
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 330px;
+}
+.strength-durability-and {
+  margin: 0;
+}
+.strength-durability-and-container {
+  position: absolute;
+  top: 304px;
+  left: calc(50% - 175px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+  text-align: center;
+}
+.reez-strength-durability-and-r-icon {
+  position: absolute;
+  top: 54px;
+  left: calc(50% - 175px);
+  width: 350px;
+  height: 208px;
+  object-fit: cover;
+}
+.experience-unyielding-strength-parent {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: var(--shadow-l);
+  width: 390px;
+  height: 517px;
+}
+.explore-premium-clay {
+  position: absolute;
+  top: 97px;
+  left: calc(50% - 169px);
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+  width: 338px;
+}
+.products-wrapper {
+  text-decoration: none;
+  position: absolute;
+  top: 198px;
+  left: calc(50% - 65px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-11xl);
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+}
+.widest-range-of {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 139px);
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.reez-showing-a-different-desig-icon {
+  position: absolute;
+  top: 34px;
+  left: 646px;
+  width: 406px;
+  height: 406px;
+  object-fit: cover;
+}
+.explore-premium-clay-facing-br-parent {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: var(--shadow-l);
+  width: 390px;
+  height: 278px;
+  font-size: var(--font-size-base);
+}
+.contact-us-wrapper {
+  text-decoration: none;
+  position: absolute;
+  top: 237px;
+  left: calc(50% - 73.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue);
+  width: 147px;
+  height: 45px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.we-would-love {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 181px);
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.got-a-question-about-our-brick-parent {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: var(--shadow-l);
+  width: 390px;
+  height: 308px;
+}
+.footer-child,
+.footer-item {
+  position: absolute;
+  top: 0;
+ 
+  background-color: var(--color-darkslateblue);
+  width: 451px;
+  height: 326.82px;
+  width: 100%;
+}
+.footer-item {
+  top: 254.09px;
+  background-color: var(--color-white);
+  height: 72.91px;
+}
+.copyright-zivotin {
+  position: absolute;
+  top: 281.29px;
+  left: calc(50% - 119.11px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 235.91px;
+  height: 16.94px;
+}
+.vector-icon1 {
+  position: absolute;
+  top: 151px;
+  left: 0;
+  width: 35px;
+  height: 33.7px;
+}
+.mangalore {
+  text-decoration: none;
+  position: absolute;
+  top: 151.27px;
+  left: 125px;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: inherit;
+}
+.vector-icon2 {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 35px;
+  height: 33.7px;
+}
+.a {
+  text-decoration: none;
+  position: absolute;
+  top: 73.28px;
+  left: 82px;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: inherit;
+}
+.vector-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 35px;
+  height: 33.7px;
+}
+.hasanbuildcongmailcom {
+  text-decoration: none;
+  position: absolute;
+  top: 0.29px;
+  left: 61px;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: inherit;
+}
+.vector-group {
+  position: absolute;
+  top: 39.86px;
+  left: calc(50% - 158px);
+  width: 316.86px;
+  height: 184.34px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gainsboro-200);
+}
+.footer {
+  align-self: stretch;
+  position: relative;
+  height: 327px;
+  text-align: center;
+  color: var(--color-darkslategray);
+  width: 100%;
+}
+.iphone-14-2 {
+  background-color: var(--color-white);
+  width: 451px;
+  overflow: hidden;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 50px;
+  font-size: var(--font-size-sm);
+  width:100% ;
+}
+.ny8tpfv2-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 822px;
+  object-fit: cover;
+}
+.hasan-buildcon1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 205px);
+  letter-spacing: 0.1em;
+  font-family: var(--font-audiowide);
+}
+.building-dreams-one1 {
+  position: absolute;
+  top: 53px;
+  left: calc(50% - 181px);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.frame-item {
+  position: absolute;
+  top: -43px;
+  left: -1.25px;
+  width: 454px;
+  height: 111.02px;
+}
+.check-products1 {
+  position: absolute;
+  top: 8px;
+  left: calc(50% - 84px);
+  font-weight: 600;
+}
+.group-container {
+  text-decoration: none;
+  position: absolute;
+  top: 132px;
+  left: 120.75px;
+  width: 450.5px;
+  height: 107px;
+  font-size: var(--font-size-lg);
+  color: inherit;
+}
+.hasan-buildcon-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 692px;
+  height: 215px;
+}
+.frame-container {
+  position: absolute;
+  top: 290px;
+  left: calc(50% - 346px);
+  width: 692px;
+  height: 264px;
+}
+.about-us2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.about-us-container {
+  text-decoration: none;
+  position: absolute;
+  top: 200px;
+  left: calc(50% - 78.16px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-11xl);
+  align-items: center;
+  justify-content: center;
+}
+.welcome-to-hasan1 {
+  position: absolute;
+  top: 34px;
+  left: calc(50% - 202px);
+  text-transform: uppercase;
+}
+.we-are-thrilled1 {
+  position: absolute;
+  top: 84px;
+  left: calc(50% - 495px);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-dimgray);
+  text-align: center;
+  display: inline-block;
+  width: 991px;
+}
+.frame-div {
+  position: absolute;
+  top: 730px;
+  left: calc(50% - 540px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: var(--shadow);
+  width: 1080px;
+  height: 295px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-midnightblue);
+}
+.whatsapp-image-2023-05-16-at-1-icon1 {
+  position: relative;
+  width: 150px;
+  height: 59.84px;
+  object-fit: cover;
+}
+.whatsapp-image-2023-05-16-at-1-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    81.56deg,
+    rgba(191, 198, 214, 0.42),
+    rgba(191, 198, 214, 0.18) 41.67%,
+    rgba(191, 198, 214, 0)
+  );
+  backdrop-filter: blur(40px);
+  width: 200px;
+  height: 71px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.home2 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: var(--color-darkslateblue);
+}
+.frame-wrapper1,
+.home-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-group {
+  width: 768px;
+  flex-direction: row;
+  gap: var(--gap-58xl);
+}
+.frame-wrapper1 {
+  position: absolute;
+  top: 19px;
+  left: 297px;
+  background: linear-gradient(
+    180deg,
+    rgba(191, 198, 214, 0.24),
+    rgba(191, 198, 214, 0.18) 41.67%,
+    rgba(191, 198, 214, 0)
+  );
+  backdrop-filter: blur(40px);
+  width: 778px;
+  height: 52px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-4xl) var(--padding-23xl);
+  box-sizing: border-box;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 537px);
+  width: 1075px;
+  height: 57px;
+  font-size: var(--font-size-xl);
+}
+.ny8tpfv2-1-parent {
+  position: relative;
+  width: 1440px;
+  height: 1049px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.experience-unyielding-strength1,
+.strength-durability-and-container1 {
+  position: absolute;
+  top: 147px;
+  left: 459px;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 604px;
+}
+.strength-durability-and-container1 {
+  top: 66px;
+  left: 410px;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  text-align: center;
+  width: 670px;
+}
+.reez-strength-durability-and-r-icon1 {
+  position: absolute;
+  top: 54px;
+  left: 31px;
+  width: 379px;
+  height: 243px;
+  object-fit: cover;
+}
+.experience-unyielding-strength-group {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: var(--shadow-l);
+  width: 1080px;
+  height: 350px;
+}
+.explore-premium-clay1 {
+  position: absolute;
+  top: 125px;
+  left: 65px;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 495px;
+}
+.products-container {
+  text-decoration: none;
+  position: absolute;
+  top: 217px;
+  left: calc(50% - 295px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue);
+  width: 135px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-11xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+}
+.widest-range-of1 {
+  position: absolute;
+  top: 75px;
+  left: 117px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.reez-showing-a-different-desig-icon2 {
+  position: absolute;
+  top: 34px;
+  left: 660px;
+  width: 392px;
+  height: 248px;
+  object-fit: cover;
+}
+.explore-premium-clay-facing-br-group {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: var(--shadow-l);
+  width: 1080px;
+  height: 330px;
+}
+.got-a-question1 {
+  position: absolute;
+  top: 89px;
+  left: calc(50% - 515px);
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+  width: 1030px;
+}
+.contact-us-container {
+  text-decoration: none;
+  position: absolute;
+  top: 196px;
+  left: calc(50% - 85px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-11xl);
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+}
+.we-would-love1 {
+  position: absolute;
+  top: 34px;
+  left: calc(50% - 252px);
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.got-a-question-about-our-brick-group {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: var(--shadow-l);
+  width: 1080px;
+  height: 283px;
+}
+.footer-inner,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-darkslateblue);
+  width: 1440px;
+  height: 230px;
+}
+.rectangle-div {
+  top: 190.73px;
+  background-color: var(--color-white);
+  height: 39.27px;
+}
+.copyright-zivotin1 {
+  position: absolute;
+  top: 199.95px;
+  left: calc(50% - 268px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  color: var(--color-darkslategray);
+  width: 536px;
+  height: 16.88px;
+}
+.vector-icon4 {
+  position: absolute;
+  top: 121px;
+  left: 0;
+  width: 35px;
+  height: 33.7px;
+}
+.mangalore1 {
+  text-decoration: none;
+  position: absolute;
+  top: 121.27px;
+  left: 67px;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: inherit;
+}
+.vector-icon5 {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  width: 35px;
+  height: 33.7px;
+}
+.a1 {
+  text-decoration: none;
+  position: absolute;
+  top: 71px;
+  left: 54px;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: inherit;
+}
+.vector-icon6 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  width: 35px;
+  height: 33.7px;
+}
+.hasanbuildcongmailcom1 {
+  text-decoration: none;
+  position: absolute;
+  top: 21px;
+  left: 54px;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: inherit;
+}
+.vector-container {
+  position: absolute;
+  top: 12px;
+  left: calc(50% + 226px);
+  width: 359px;
+  height: 166px;
+}
+.home3,
+.quick-links {
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.quick-links {
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.home3 {
+  text-decoration: none;
+  font-weight: 700;
+  color: inherit;
+}
+.bout-us,
+.products4 {
+  text-transform: uppercase;
+}
+.products4 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  color: inherit;
+}
+.nav-right {
+  position: absolute;
+  top: 27px;
+  left: calc(50% - 124px);
+  width: 178px;
+  height: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.whatsapp-image-2023-05-16-at-1-icon2 {
+  position: absolute;
+  top: 64px;
+  left: calc(50% - 540px);
+  width: 200px;
+  height: 67.86px;
+  object-fit: cover;
+}
+.footer1,
+.home {
+  position: relative;
+}
+.footer1 {
+  width: 1440px;
+  height: 230px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gainsboro-200);
+}
+.home {
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 91px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 960px) {
+  .iphone-14-2 {
+    display: flex;
+  }
+  .experience-unyielding-strength-group,
+  .explore-premium-clay-facing-br-group,
+  .footer1,
+  .got-a-question-about-our-brick-group,
+  .ny8tpfv2-1-parent {
+    display: none;
+  }
+}
+@media screen and (max-width: 420px) {
+  .footer1 {
+    display: none;
+  }
+}
